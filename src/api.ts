@@ -1,0 +1,2 @@
+
+export {ClassName} from './ClassName';
